@@ -20,5 +20,10 @@ The project structure like this one shown below.
 - index.html
 - README.md
 
+## Technologies used
+- Java script
+- Html
+- css
+
 
 
